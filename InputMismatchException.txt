@@ -1,0 +1,20 @@
+(InputMismatchException) Write a Program that prompts the user to read the user to read two integers
+and displays their sum. Your program should prompt the user to read the number again if the input 
+is incorrect.
+
+Sample testcases
+
+Input 1						Output 1
+
+5							Sum = 11
+6
+
+Input 2						Output 2
+
+X							Incorrect input type, pleasee try again:
+5
+
+Input 3						Output 3
+
+9							Incorrect input type, pleasee try again:
+Y
